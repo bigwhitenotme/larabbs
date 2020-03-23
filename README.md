@@ -9,3 +9,7 @@ rm -rf node_modules
 npm install --no-bin-links
 npm run dev --no-bin-links
 npm run watch-poll
+
+
+<!-- yarn add @fortawesome/fontawesome-free -->
+npm install @fortawesome/fontawesome-free --no-bin-links
