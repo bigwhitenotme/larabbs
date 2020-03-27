@@ -13,3 +13,5 @@ npm run watch-poll
 
 <!-- yarn add @fortawesome/fontawesome-free -->
 npm install @fortawesome/fontawesome-free --no-bin-links
+
+composer require "mews/captcha:~3.0" 验证码
